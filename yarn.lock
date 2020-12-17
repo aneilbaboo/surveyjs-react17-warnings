@@ -1494,10 +1494,10 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-surveyjs-react@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/surveyjs-react/-/surveyjs-react-1.0.1.tgz#32585448134bf02900191193bfbf469e4ca1ef76"
-  integrity sha512-flZsSGCEeY0yYbXlftdQ/eTCqN2t4sKj4c0JC7sMq8sqHikf85B39PZBPliaoSaR+dsH0uzuXRwmJuIasDzDMg==
+surveyjs-react@^1.8.21:
+  version "1.0.49"
+  resolved "https://registry.yarnpkg.com/surveyjs-react/-/surveyjs-react-1.0.49.tgz#1c94a5ad6a5d699291c3d4aa407320c4028d7d77"
+  integrity sha512-hVhrX1FcxxO7YscPExK02fpOQivmagpCXM5Z6ndN+aH8M1T98q/O0OAis5+uTeUlExrjV2h5ENlHsl28tL+7/A==
 
 surveyjs@^3.0.0:
   version "3.0.0"
